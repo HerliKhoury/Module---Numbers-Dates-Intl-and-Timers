@@ -251,3 +251,5 @@ btnSort.addEventListener('click', function (e) {
 /////////////////////////////////////////////////
 /////////////////////////////////////////////////
 // LECTURES
+
+console.log('Hello hello Kity kity');//Teste para commit no GitHub
